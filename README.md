@@ -12,4 +12,4 @@ concepts:
 - custom error page
 - dynamic pages with query params
 - cleaner urls without query params using withRouter
-- deploying to vercel now
+- deploying to vercel now : https://next-portfolio-henna-zeta.vercel.app/
